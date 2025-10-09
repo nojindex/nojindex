@@ -13,14 +13,15 @@ Soy un programador independiente con conocimientos en desarrollo de software, pa
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.
 
 * 💡 **Me interesa el desarrollo paginas web y aplicaiones de escritorio.**
+
 * 🌱 Actualmente estoy aprendiendo:
   - C++ 
 <!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
 * ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  -->
-* Pasatiempos:
+* 🎯 Pasatiempos:
   - 📖 Me gusta leer     
   - 🎵 Escuchar música  
-  - 🌴 juagar ajedrez  
+  - ♟️ jugar ajedrez  
 
 <!--📫 **Contáctame:**  
 <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>-->
@@ -30,7 +31,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <p align="left">
   <!-- Lenguajes principales -->
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,dotnet,php" />
   
   <!-- Frameworks y librerías -->
   <!--<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,bootstrap" />-->
