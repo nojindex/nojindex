@@ -22,8 +22,8 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
   - 🎵 Escuchar música  
   - 🌴 juagar ajedrez  
 
-📫 **Contáctame:**  
-<a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+<!--📫 **Contáctame:**  
+<a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>-->
 
 ---
 
@@ -58,6 +58,6 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 ----->
 
-✨ Créditos: [Bhargavi-hash](https://github.com/Bhargavi-hash)  
-📅 Fecha: 18/11/2021
+<!--✨ Créditos: [Bhargavi-hash](https://github.com/Bhargavi-hash)  
+📅 Fecha: 18/11/2021-->
 
