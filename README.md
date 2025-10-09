@@ -5,7 +5,7 @@
 **Bhargavi-hash/Bhargavi-hash** es un ✨ _repositorio especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
 
-<img align="right" width=300px alt="Unicornio programando" src="https://static.vecteezy.com/system/resources/previews/004/851/003/non_2x/loading-message-on-display-screen-black-background-data-progress-loading-complete-alert-computer-network-system-software-concept-free-photo.JPG" />
+<img align="right" width=300px alt="Unicornio programando" src="https://img.freepik.com/vector-premium/fondo-oscuro-abstracto-ceros-tonos-gris_444390-3371.jpg?semt=ais_hybrid&w=740&q=80" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
