@@ -47,7 +47,7 @@ Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
 
 ## 👀 Mis estadísticas de GitHub
 
-<div align="center">
+<!--<div align="center">
 
   <b><em>Actividad en GitHub:</em></b>  
   <br/>
@@ -59,7 +59,7 @@ Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
 
 </div>
 
----
+----->
 
 ✨ Créditos: [Bhargavi-hash](https://github.com/Bhargavi-hash)  
 📅 Fecha: 18/11/2021
