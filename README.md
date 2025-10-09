@@ -20,14 +20,14 @@ gestión de servidore-->
 
 <img align="right" width=300px alt="Unicornio programando" src="https://p4.wallpaperbetter.com/wallpaper/710/636/933/programming-wallpaper-preview.jpg" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;**Sobre mí**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp; Sobre mí
 
 <!--Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.-->
 
 * 💡 **Me interesa el desarrollo paginas web y aplicaciones de escritorio.**
 * 🌱 Actualmente estoy aprendiendo:
-  - **C++**
+  - C++
 <!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
 * ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  -->
 * 🎯 Pasatiempos:
