@@ -77,7 +77,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 ---
 
-## 📫 Contaacto
+## 📫 Contacto
 ✉️ **Email:** Nissan1845UJ@gmail.com
 
 ---
