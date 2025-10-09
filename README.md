@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Bhargavi  
+# 👋 ¡Hola! Soy Jose  
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![Seguidores en GitHub](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Seguir)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 <!--
@@ -9,9 +9,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-Soy estudiante de pregrado en **Ingeniería en Ciencias de la Computación** en **IIIT-Hyderabad**.  
-Tengo experiencia en **C, C++, Python, JavaScript, HTML y Shell**.  
-Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
+Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
+gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.
 
 * 💡 **Me interesa el diseño web, el desarrollo Android y el marketing digital.**
 * 🌱 Actualmente estoy aprendiendo:
@@ -45,7 +44,7 @@ Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
 
 ---
 
-## 👀 Mis estadísticas de GitHub
+<!--## 👀 Mis estadísticas de GitHub-->
 
 <!--<div align="center">
 
