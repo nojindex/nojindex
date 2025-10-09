@@ -25,7 +25,7 @@ gestión de servidore-->
 <!--Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.-->
 
-* 💡 **Me interesa el desarrollo paginas web y aplicaciones de escritorio.**
+* 💡 **Interes: desarrollo de paginas web y aplicaciones de escritorio.**
 * 🌱 Actualmente estoy aprendiendo:
   - C++
 <!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
