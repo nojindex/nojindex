@@ -66,7 +66,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <div>
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+    <a href="https://github.com/nojindex/PaginaPan.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS&theme=tokyonight" alt="HotelFranchiseDBMS" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
