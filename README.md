@@ -66,14 +66,15 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <div>
   <p>
-    <a href="https://github.com/Perfumate.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-l&repo=Perfumate.github.io&theme=tokyonight" alt="Perfumate.github.io" />
+    <a href="https://github.com/nojindex/Perfumate.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=Perfumate.github.io&theme=tokyonight" alt="Perfumate.github.io" />
     </a>
-    <a href="https://github.com/PaginaPan.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-l&repo=PaginaPan.github.io&theme=tokyonight" alt="PaginaPan.github.io" />
+    <a href="https://github.com/nojindex/PaginaPan.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=PaginaPan.github.io&theme=tokyonight" alt="PaginaPan.github.io" />
     </a>
   </p>
 </div>
+
 
 ---
 
