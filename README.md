@@ -12,17 +12,15 @@
 Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.
 
-* 💡 **Me interesa el diseño web, el desarrollo Android y el marketing digital.**
+* 💡 **Me interesa el diseño web, el desarrollo paginas web y las Apps.**
 * 🌱 Actualmente estoy aprendiendo:
-  - Java  
-  - React.js
+  - C++ 
 * 👯 Deseo colaborar en **proyectos de código abierto**.  
 * ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  
-* Fuera de la tecnología:
-  - 📖 Me gusta leer novelas  
-  - 🖌️ Hacer pintura y dibujo  
+* Pasatiempos:
+  - 📖 Me gusta leer     
   - 🎵 Escuchar música  
-  - 🌴 Explorar la naturaleza  
+  - 🌴 juagar ajedrez  
 
 📫 **Contáctame:**  
 <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
