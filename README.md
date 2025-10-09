@@ -6,7 +6,7 @@ He aprendido a través de proyectos personales, libros y cursos en línea.-->
 
 <!--¡Hola! Soy **José** ,--> 
 Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos 
-. He adquirido mis conocimientos a través de proyectos propios, libros y cursos ****
+. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.
 
 <!--
 y
@@ -26,13 +26,13 @@ gestión de servidore-->
 <!--Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.-->
 
-* 💡 **Interes: desarrollo de paginas web y aplicaciones de escritorio.**
+* 💡 **Interes: desarrollo de paginas web y aplicaciones de escritorio.** Disfruto aprender nuevas tecnologias y mejorar mis habilidades , creando proyectos que me desafien y aplicando algo nuevo.
 <!--* 🏆 Proyectos personales, apps, webs, contribuciones a GitHub-->
 <!--* 🌱 Actualmente estoy aprendiendo:
   - C++-->
 <!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
 * ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  -->
-* 🎯 Pasatiempos:
+* 🎯 **Pasatiempos**:
   - 📖 Me gusta leer     
   - 🎵 Escuchar música  
   - ♟️ jugar ajedrez  
