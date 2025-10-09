@@ -1,11 +1,14 @@
-# 👋 ¡Hola! Soy Jose  
+<!--# 👋 ¡Hola! Soy Jose  -->
 
 --
 
 # 👋 Presentación
 
-¡Hola! Soy **José**, un programador independiente con experiencia en desarrollo de software, páginas web, bases de datos y administración de servidores.  
-He aprendido a través de proyectos personales, libros y cursos en línea.
+<!--¡Hola! Soy **José**, un programador independiente con experiencia en desarrollo de software, páginas web, bases de datos y administración de servidores.  
+He aprendido a través de proyectos personales, libros y cursos en línea.-->
+
+¡Hola! Soy **José** , Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
+gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos ****
 
 ---
 <!--[Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![Seguidores en GitHub](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Seguir)](https://github.com/Bhargavi-hash?tab=followers)<br/>
@@ -16,13 +19,12 @@ He aprendido a través de proyectos personales, libros y cursos en línea.
 
 <img align="right" width=300px alt="Unicornio programando" src="https://p4.wallpaperbetter.com/wallpaper/710/636/933/programming-wallpaper-preview.jpg" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;**Sobre mí**
 
 <!--Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.-->
 
-* 💡 **Me interesa el desarrollo paginas web y aplicaiones de escritorio.**
-
+* 💡 **Me interesa el desarrollo paginas web y aplicaciones de escritorio.**
 * 🌱 Actualmente estoy aprendiendo:
   - C++ 
 <!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
