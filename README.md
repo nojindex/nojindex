@@ -30,7 +30,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <p align="left">
   <!-- Lenguajes principales -->
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,dotnet" />
   
   <!-- Frameworks y librerías -->
   <!--<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,bootstrap" />-->
