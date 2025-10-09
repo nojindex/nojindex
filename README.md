@@ -26,8 +26,9 @@ gestión de servidore-->
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.-->
 
 * 💡 **Interes: desarrollo de paginas web y aplicaciones de escritorio.**
-* 🌱 Actualmente estoy aprendiendo:
-  - C++
+<!--* 🏆 Proyectos personales, apps, webs, contribuciones a GitHub-->
+<!--* 🌱 Actualmente estoy aprendiendo:
+  - C++-->
 <!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
 * ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  -->
 * 🎯 Pasatiempos:
