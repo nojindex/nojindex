@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jose  
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![Seguidores en GitHub](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Seguir)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
+<!--[Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![Seguidores en GitHub](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Seguir)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+-->
 <!--
 **Bhargavi-hash/Bhargavi-hash** es un ✨ _repositorio especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
@@ -43,9 +43,9 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 </p>
 
 💬 **Lenguajes que domino:** C#, C++, JavaScript, Python, HTML, CSS  
-⚙️ **Frameworks y tecnologías:** .NET, Node.js, React, Express, Bootstrap  
+⚙️ **Frameworks y tecnologías:** .NET, Bootstrap  
 🗄️ **Bases de datos:** MySQL, SQLite, PostgreSQL  
-🧰 **Herramientas:** Git, Visual Studio, VS Code, Linux, PowerShell  
+🧰 **Herramientas:** Git, VS Code, Linux
 
 ---
 
