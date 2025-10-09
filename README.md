@@ -66,11 +66,11 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <div>
   <p>
-    <a href="https://github.com/nojindex/PaginaPan.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS&theme=tokyonight" alt="HotelFranchiseDBMS" />
+    <a href="https://github.com/d-l/Perfumate.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-l&repo=Perfumate.github.io&theme=tokyonight" alt="Perfumate.github.io" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation&theme=tokyonight" alt="Linux-Shell-Implementation" />
+    <a href="https://github.com/d-l/PaginaPan.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-l&repo=PaginaPan.github.io&theme=tokyonight" alt="PaginaPan.github.io" />
     </a>
   </p>
 </div>
