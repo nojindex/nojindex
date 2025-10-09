@@ -1,7 +1,4 @@
 <!--# 👋 ¡Hola! Soy Jose  -->
-
---
-
 # 👋 Presentación
 
 <!--¡Hola! Soy **José**, un programador independiente con experiencia en desarrollo de software, páginas web, bases de datos y administración de servidores.  
