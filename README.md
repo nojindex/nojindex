@@ -74,7 +74,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 ---
 
 
-⭐ **Créditos:** [noj](https://github.com/noj)
+⭐ **Créditos:** [noj](https://github.com/nojindex)
 
 <!--## 👀 Mis estadísticas de GitHub-->
 
