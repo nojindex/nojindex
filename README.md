@@ -25,6 +25,28 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 <!--📫 **Contáctame:**  
 <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>-->
 
+
+## 🛠️ Lenguajes y Tecnologías
+
+<p align="left">
+  <!-- Lenguajes principales -->
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python" />
+  
+  <!-- Frameworks y librerías -->
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,bootstrap" />
+  
+  <!-- Bases de datos -->
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+  
+  <!-- Herramientas y otros -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+</p>
+
+💬 **Lenguajes que domino:** C#, C++, JavaScript, Python, HTML, CSS  
+⚙️ **Frameworks y tecnologías:** .NET, Node.js, React, Express, Bootstrap  
+🗄️ **Bases de datos:** MySQL, SQLite, PostgreSQL  
+🧰 **Herramientas:** Git, Visual Studio, VS Code, Linux, PowerShell  
+
 ---
 
 ## 📁 Revisa mis repositorios destacados
