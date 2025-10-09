@@ -77,7 +77,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 ---
 
-
+✉️ **Email:** Nissan1845UJ@gmail.com
 ⭐ **Créditos:** [nojindex](https://github.com/nojindex)
 
 <!--## 👀 Mis estadísticas de GitHub-->
