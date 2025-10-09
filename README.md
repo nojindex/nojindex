@@ -4,7 +4,8 @@
 <!--¡Hola! Soy **José**, un programador independiente con experiencia en desarrollo de software, páginas web, bases de datos y administración de servidores.  
 He aprendido a través de proyectos personales, libros y cursos en línea.-->
 
-¡Hola! Soy **José** , Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos 
+<!--¡Hola! Soy **José** ,--> 
+Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos 
 . He adquirido mis conocimientos a través de proyectos propios, libros y cursos ****
 
 <!--
