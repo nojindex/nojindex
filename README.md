@@ -12,11 +12,11 @@
 Soy un programador independiente con conocimientos en desarrollo de software, paginas web, base de datos y
 gestión de servidores. He adquirido mis conocimientos a través de proyectos propios, libros y cursos.
 
-* 💡 **Me interesa el diseño web, el desarrollo paginas web y las Apps.**
+* 💡 **Me interesa el desarrollo paginas web y aplicaiones de escritorio.**
 * 🌱 Actualmente estoy aprendiendo:
   - C++ 
-* 👯 Deseo colaborar en **proyectos de código abierto**.  
-* ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  
+<!--* 👯 Deseo colaborar en **proyectos de código abierto**.  
+* ✔ ¡Pregúntame lo que quieras! Estoy feliz de ayudar... si está dentro de mi campo 😉  -->
 * Pasatiempos:
   - 📖 Me gusta leer     
   - 🎵 Escuchar música  
