@@ -45,13 +45,13 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <p align="left">
   <!-- Lenguajes principales -->
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,dotnet,php" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,dotnet,php" />
   
   <!-- Frameworks y librerías -->
   <!--<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,bootstrap" />-->
   
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql"/>
   
   <!-- Herramientas y otros -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
