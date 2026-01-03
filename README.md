@@ -57,7 +57,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-💬 **Lenguajes que domino:** C#, JavaScript, Python, HTML, CSS  
+💬 **Lenguajes que domino:** C#, JavaScript, Python, HTML, CSS   
 ⚙️ **Frameworks y tecnologías:** .NET 
 🗄️ **Bases de datos:** MySQL 
 🧰 **Herramientas:** Git, Visual Studio Code, Linux
