@@ -59,7 +59,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 💬 **Lenguajes que domino:** C#, JavaScript, Python, HTML, CSS  
 ⚙️ **Frameworks y tecnologías:** .NET 
-🗄️ **Bases de datos:** MySQL , MySqlLite
+🗄️ **Bases de datos:** MySQL 
 🧰 **Herramientas:** Git, Visual Studio Code, Linux
 
 ---
