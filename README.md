@@ -61,7 +61,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 ⚙️ **Frameworks y tecnologías:** .NET 
 🗄️ **Bases de datos:** MySQL 
 🧰 **Herramientas:** Git, Visual Studio Code, Linux
-
+ 
 ---
 
 ## 📁 Revisa mis repositorios destacados
