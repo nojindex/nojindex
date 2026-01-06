@@ -68,7 +68,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 <div>
   <p>
-    <a href="https://github.com/nojindex/Perfumate.github.io">
+    <a href="https://github.com/nojindex/Teclados-Interactivo-.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=Perfumate.github.io&theme=tokyonight" alt="Perfumate.github.io" />
     </a>
     <a href="https://github.com/nojindex/PaginaPan.github.io">
