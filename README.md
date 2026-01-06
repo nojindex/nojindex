@@ -86,7 +86,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 ---
 
-### 🧮 .NET
+### 🧮 .NET y Jquery
 
 ---
 
