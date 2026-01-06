@@ -71,8 +71,9 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
     <a href="https://github.com/nojindex/Teclados-Interactivo-.git">
          # 🎹 Teclado Interactivo <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=Teclados-Interactivo-&theme=tokyonight" alt="Teclado Interactivo" />-->
     </a>
-    <a href="https://github.com/nojindex/PaginaPan.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=PaginaPan.github.io&theme=tokyonight" alt="PaginaPan.github.io" />
+    <a href="https://github.com/nojindex/Calculadora-Cientifica.git">
+      # 🧮 Calculadora 
+      <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=PaginaPan.github.io&theme=tokyonight" alt="PaginaPan.github.io" />-->
     </a>
   </p>
 </div>
