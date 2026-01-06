@@ -78,7 +78,7 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
   </p>
   <p>
     <a href="https://github.com/nojindex/Calculadora-Cientifica.git">
-      🧮 Calculadora Científica
+      📊 Calculadora Científica
       <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=nojindex&repo=Calculadora-Cientifica&theme=tokyonight" alt="Calculadora Científica" /> -->
     </a>
   </p>
