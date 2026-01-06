@@ -66,6 +66,8 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
 
 ## 📁 Revisa mis repositorios destacados
 
+### 💻 JavaScript
+
 <div>
   <p>
     <a href="https://github.com/nojindex/Teclados-Interactivo-.git">
@@ -81,6 +83,13 @@ gestión de servidores. He adquirido mis conocimientos a través de proyectos pr
   </p>
 </div>
 
+### 🧮 .NET
+
+### 🐍 Python
+
+### 🗄️ MySQL
+
+### 🐘 PHP
 
 
 ---
